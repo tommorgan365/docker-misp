@@ -1,0 +1,1 @@
+/var/www/MISP/app/Config/config.php
